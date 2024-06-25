@@ -1,0 +1,306 @@
+{
+    "products": 
+        [
+            {
+                "id": 1,
+                "name": "MSI Pulse",
+                "brand": "MSI",
+                "category": "Computers",
+                "price": 889,
+                "description": "MSI Pulse GL66 15.6",
+                "imageFilename": "MSI.jpg",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 2,
+                "name": "Smartwatch",
+                "brand": "Generic",
+                "category": "Wearables",
+                "price": 149.99,
+                "description": "Stay connected and on top of your fitness goals with the Smartwatch, featuring a touch screen display, heart rate monitoring, and notification alerts.",
+                "imageFilename": "smartwatch.jpg",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 3,
+                "name": "Laptop Ultrabook",
+                "brand": "Generic",
+                "category": "Computers",
+                "price": 699.99,
+                "description": "Enjoy a lightweight and portable computing experience with the Laptop Ultrabook, featuring a high-resolution display, long battery life, and advanced performance.",
+                "imageFilename": "ultrabook.jpg",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 4,
+                "name": "Wireless Headphones",
+                "brand": "Generic",
+                "category": "Audio",
+                "price": 199.99,
+                "description": "Listen to your favorite music or take calls with the Wireless Headphones, featuring advanced noise cancellation and long battery life.",
+                "imageFilename": "headphones.jpg",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 5,
+                "name": "Smart TV",
+                "brand": "Generic",
+                "category": "TVs",
+                "price": 499.99,
+                "description": "Enjoy a premium viewing experience with the Smart TV, featuring a high-resolution display, built-in Wi-Fi, and access to streaming services.",
+                "imageFilename": "smarttv.jpg",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 6,
+                "name": "Action Camera",
+                "brand": "Generic",
+                "category": "Cameras",
+                "price": 299.99,
+                "description": "Capture life's moments with the Action Camera, featuring a waterproof design, high-resolution video, and advanced image stabilization.",
+                "imageFilename": "actioncamera.jpg",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 7,
+                "name": "Smart Speaker",
+                "brand": "Generic",
+                "category": "Audio",
+                "price": 99.99,
+                "description": "Enjoy high-quality sound and hands-free calling with the Smart Speaker, featuring advanced voice recognition and wireless connectivity.",
+                "imageFilename": "smartspeaker.jpg",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 8,
+                "name": "Gaming Mouse",
+                "brand": "Generic",
+                "category": "Gaming Accessories",
+                "price": 49.99,
+                "description": "Enhance your gaming experience with the Gaming Mouse, featuring advanced sensors, customizable buttons, and ergonomic design.",
+                "imageFilename": "gamingmouse.jpg",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 9,
+                "name": "Smart Home Hub",
+                "brand": "Generic",
+                "category": "Smart Home",
+                "price": 99.99,
+                "description": "Control your smart home devices with the Smart Home Hub, featuring voice recognition, remote access, and advanced automation.",
+                "imageFilename": "smarthomehub.jpg",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 10,
+                "name": "Fitness Tracker",
+                "brand": "Generic",
+                "category": "Wearables",
+                "price": 79.99,
+                "description": "Track your fitness goals with the Fitness Tracker, featuring heart rate monitoring, step counting, and advanced activity tracking.",
+                "imageFilename": "fitnesstracker.avif",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 11,
+                "name": "Wireless Keyboard",
+                "brand": "Generic",
+                "category": "Computer Accessories",
+                "price": 29.99,
+                "description": "Enjoy a clutter-free typing experience with the Wireless Keyboard, featuring advanced connectivity and ergonomic design.",
+                "imageFilename": "wirelesskeyboard.jpg",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 12,
+                "name": "Smart Lighting System",
+                "brand": "Generic",
+                "category": "Smart Home",
+                "price": 149.99,
+                "description": "Enhance your home ambiance with the Smart Lighting System, featuring color temperature adjustment, voice control, and energy efficiency.",
+                "imageFilename": "smartlighting.jpg",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 13,
+                "name": "VR Gaming Chair",
+                "brand": "Generic",
+                "category": "Gaming Accessories",
+                "price": 249.99,
+                "description": "Immerse yourself in gaming comfort with the VR Gaming Chair, featuring adjustable height, recline function, and ergonomic design.",
+                "imageFilename": "vrgamingchair.jpg",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 14,
+                "name": "Smart Kitchen Appliances",
+                "brand": "Generic",
+                "category": "Kitchen Appliances",
+                "price": 299.99,
+                "description": "Streamline your kitchen with the Smart Kitchen Appliances, featuring Wi-Fi connectivity, advanced cooking functions, and voice control.",
+                "imageFilename": "smartkitchen.webp",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 15,
+                "name": "Smart Gardening System",
+                "brand": "Generic",
+                "category": "Gardening",
+                "price": 349.99,
+                "description": "Transform your garden with the Smart Gardening System, featuring automated watering, nutrient delivery, and weather monitoring.",
+                "imageFilename": "smartgardening.jpg",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 16,
+                "name": "Smart Pet Feeder",
+                "brand": "Generic",
+                "category": "Pet Accessories",
+                "price": 99.99,
+                "description": "Keep your pets well-fed with the Smart Pet Feeder, featuring automatic feeding, nutrient tracking, and voice control.",
+                "imageFilename": "smartpetfeeder.webp",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 17,
+                "name": "Smart Baby Monitor",
+                "brand": "Generic",
+                "category": "Baby Products",
+                "price": 199.99,
+                "description": "Keep a watchful eye on your baby with the Smart Baby Monitor, featuring high-resolution video, voice communication, and advanced safety features.",
+                "imageFilename": "smartbabymonitor.webp",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 18,
+                "name": "Smart Home Security System",
+                "brand": "Generic",
+                "category": "Smart Home",
+                "price": 199.99,
+                "description": "Enhance your home security with the Smart Home Security System, featuring motion detection, remote access, and advanced alert systems.",
+                "imageFilename": "smarthomesecurity.jpg",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 19,
+                "name": "Smart Fitness Equipment",
+                "brand": "Generic",
+                "category": "Fitness Equipment",
+                "price": 499.99,
+                "description": "Stay fit at home with the Smart Fitness Equipment, featuring advanced tracking technology, personalized workout plans, and remote monitoring.",
+                "imageFilename": "smartfitness.webp",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 20,
+                "name": "Smart Home Theater System",
+                "brand": "Generic",
+                "category": "Home Theater",
+                "price": 999.99,
+                "description": "Immerse yourself in cinematic experiences with the Smart Home Theater System, featuring high-resolution audio, advanced surround sound, and voice control.",
+                "imageFilename": "smarthometheater.jpg",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 21,
+                "name": "Smart Home Automation Hub",
+                "brand": "Generic",
+                "category": "Smart Home",
+                "price": 299.99,
+                "description": "Control and automate your entire home with the Smart Home Automation Hub, featuring voice recognition, remote access, and advanced automation.",
+                "imageFilename": "smarthomeautomation.jpg",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 22,
+                "name": "Smart Home Weather Station",
+                "brand": "Generic",
+                "category": "Smart Home",
+                "price": 149.99,
+                "description": "Stay informed about weather conditions with the Smart Home Weather Station, featuring real-time updates, advanced sensors, and remote access.",
+                "imageFilename": "smarthomeweather.jpg",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 23,
+                "name": "Smart Home Energy Monitor",
+                "brand": "Generic",
+                "category": "Smart Home",
+                "price": 455.99,
+                "description": "Monitor and control your home energy usage with the Smart Home Energy Monitor, featuring real-time updates, energy-saving tips, and remote access.",
+                "imageFilename": "smarthomeenergy.jpg",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 24,
+                "name": "Smart Thermostat",
+                "brand": "Generic",
+                "category": "Smart Home",
+                "price": 149.99,
+                "description": "Control your home temperature with the Smart Thermostat, featuring advanced scheduling, voice control, and energy-saving features.",
+                "imageFilename": "smartthermostat.jpg",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 25,
+                "name": "Smart Air Purifier",
+                "brand": "Generic",
+                "category": "Air Purifiers",
+                "price": 199.99,
+                "description": "Improve indoor air quality with the Smart Air Purifier, featuring advanced filtration technology, voice control, and energy-saving features.",
+                "imageFilename": "smartairpurifier.webp",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 26,
+                "name": "Smart Smoke Detector",
+                "brand": "Generic",
+                "category": "Safety Devices",
+                "price": 99.99,
+                "description": "Protect your home from fire with the Smart Smoke Detector, featuring advanced sensors, voice control, and real-time alerts.",
+                "imageFilename": "smokeddetector.webp",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 27,
+                "name": "Smart Car Charger",
+                "brand": "Generic",
+                "category": "Power Adapters",
+                "price": 49.99,
+                "description": "Keep your devices charged on the go with the Smart Car Charger, featuring advanced charging technology, voice control, and energy-saving features.",
+                "imageFilename": "smartcarcharger.jpg",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 28,
+                "name": "Smart Pet Feeder",
+                "brand": "Generic",
+                "category": "Pet Accessories",
+                "price": 99.99,
+                "description": "Keep your pets well-fed with the Smart Pet Feeder, featuring automatic feeding, nutrient tracking, and voice control.",
+                "imageFilename": "smartpetfeeder.jpg",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 29,
+                "name": "Smart Home Security Camera",
+                "brand": "Generic",
+                "category": "Smart Home",
+                "price": 199.99,
+                "description": "Monitor your home with the Smart Home Security Camera, featuring high-resolution video, voice communication, and advanced motion detection.",
+                "imageFilename": "smarthomesecuritycamera.jpg",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 30,
+                "name": "Smart Home Automation Hub",
+                "brand": "Generic",
+                "category": "Smart Home",
+                "price": 299.99,
+                "description": "Control and automate your entire home with the Smart Home Automation Hub, featuring voice recognition, remote access, and advanced automation.",
+                "imageFilename": "smarthomeautomation1.jpg",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            }
+        ]
+    
+}
