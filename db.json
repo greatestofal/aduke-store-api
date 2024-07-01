@@ -302,6 +302,26 @@
                 "description": "Control and automate your entire home with the Smart Home Automation Hub, featuring voice recognition, remote access, and advanced automation.",
                 "imageFilename": "smarthomeautomation.jpg",
                 "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 31,
+                "name": "Smart Home Automation Hub",
+                "brand": "Generic",
+                "category": "Smart Home",
+                "price": 299.99,
+                "description": "Control and automate your entire home with the Smart Home Automation Hub, featuring voice recognition, remote access, and advanced automation.",
+                "imageFilename": "smarthomeautomation.jpg",
+                "createdAt": "2024-06-13T17:46:54.89000"
+            },
+            {
+                "id": 32,
+                "name": "Smart Home Automation Hub",
+                "brand": "Generic",
+                "category": "Smart Home",
+                "price": 299.99,
+                "description": "Control and automate your entire home with the Smart Home Automation Hub, featuring voice recognition, remote access, and advanced automation.",
+                "imageFilename": "smarthomeautomation.jpg",
+                "createdAt": "2024-06-13T17:46:54.89000"
             }
         ]
     ]
